@@ -132,7 +132,7 @@ Authorization: Bearer YOUR_JWT_TOKEN
 ## 📅 Submission Checklist
 
 - (https://github.com/Anurag7752/Activity-Booking-Api)✅
-- [ ] Optional: Live API URL
+- (https://activity-booking-api-ixm2.onrender.com/)
 
 ---
 
