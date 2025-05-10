@@ -1,4 +1,4 @@
-# 📚 Basic Activity Booking App (Backend API)
+# 📚 Basic Activity Booking Api (Backend API)
 
 A simple REST API for activity booking like cricket matches, movies, football, etc. Built with **Node.js**, **Express.js**, and **MongoDB**.
 
