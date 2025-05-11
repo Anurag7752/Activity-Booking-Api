@@ -35,7 +35,7 @@ A simple REST API for activity booking like cricket matches, movies, football, e
 ├── middleware
 │   └── authMiddleware.js
 ├── .env
-├── server.js
+├── index.js
 └── package.json
 ```
 
